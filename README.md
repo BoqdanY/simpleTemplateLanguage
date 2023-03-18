@@ -1,1 +1,1 @@
-# simpleTemplateLanguage
+# Simple Template Language
